@@ -19,7 +19,7 @@
     <h2>PODŚWIADOMOŚĆ</h2>
     <br>
     <p>Sposób, w jaki ludzie podejmują decyzje jest bardzo skomplikowany. Większość decyzji podejmowanych przez
-      człowieka jest podejmowana podświadomie. </p>
+      człowieka jest podejmowana podświadomie. </p><br>
     <img align="center" width="30%" height="30%" src="../assets/brain.jpg"/><br>
     <p>Zastanawiając się nad zakupem odbiornika telewizyjnego, najczęściej sprawdzamy, czym się kierować przy wyborze
       telewizora, a następnie wchodzimy do internetowego sklepu, aby dokonać zakupu. Ciekawą rzeczą są czynniki brane
@@ -120,20 +120,72 @@
       PRZED ICH OCZAMI
     </h2><br>
     <img align="center" width="30%" height="30%" src="../assets/eye.jpg"/><br>
+    <p>Ben Bushong (2010) i jego zespoł naukowy postanowili znaleźć odpowiedzi pytania czy ludzie wyżej oceniają produkt
+      gdy ujrzą jego zdjecie, niż gdy opis produktu będzie miał tylko postac tekstową, czy produkt może być więcej wart
+      jeśli zobaczymy go na zywo w sklepie stacjonarnym, czy sposób w jaki produkt prezentowany jest w momencie podjęcia
+      decyzji ma wpływ na cene jaka kupujący będzie skłonny zaplacic.
+      W pierwszej serii eksperymentow naukowcy użyli przekąsek (chipsow ziemniaczanych, czekoladowych batonow i tym
+      podobnych produktow), a uczestnikom wręczyli określone sumy pieniędzy do wydania. Produktow było bardzo dużo, a
+      badani sami mogli wybrać, na co chcą wydać pieniądze. (Wcześniej wyeliminowano osoby na diecie oraz ludzi ze
+      schorzeniami układu pokarmowego). Uczestnicy badania proponowali własne ceny za wybrane przez siebie produkty,
+      dzięki czemu naukowcy mogli stwierdzić, kto jest skłonny ile zapłacić za poszczegolne towary. Niektorzy uczestnicy
+      badania mogli przeczytać tylko nazwę i krotki opis produktu, na przykład „Chipsy ziemniaczane Lay’s w torebce 150
+      g”. Innym pokazywano rownież zdjęcia produktow, a jeszcze inni widzieli produkty na własne oczy.
+      Wyniki badania prezentuje rysunek 100.1.
+    </p><br>
+    <img align="center" width="30%" height="30%" src="../assets/chart1.png"/><br>
+    <h2>FIZYCZNA OBECNOŚĆ PRODUKTU PRZEKŁADA SIĘ
+      NA JEGO POSTRZEGANĄ WARTOŚĆ
+    </h2><br>
+    <p>Obecność zdjęcia produktu nie wpływała na ilość pieniędzy, jakie badani byli gotowi zaoferować
+      za ten produkt. Jednak gdy ten sam produkt był już fizycznie dostępny dla badanych, oferowana
+      przez nich cena wzrastała zdecydowanie — nawet o 60 procent. Co ciekawe, sposob prezentacji
+      produktu nie wpływał na ocenę tego, jak bardzo był on lubiany; zmieniały się jedynie kwoty pieniędzy oferowane
+      przez uczestnikow badania. Co więcej, rownież produkty, o ktorych uczestnicy już przed eksperymentem mowili, że
+      ich nie lubią, były przez nich wyceniane wyżej, jeśli można było je zobaczyć na własne oczy.
+    </p><br>
+    <h2>ZABAWKI, OZDOBY I PLEKSIGLAS</h2><br>
+    <p>Następnie naukowcy zastąpili jedzenie zabawkami i ozdobami. Rysunek 100.2 przedstawia wyniki
+      tego samego eksperymentu, gdy zastosowano w nim zabawki i ozdoby. Wykres wygląda podobnie
+      jak w przypadku eksperymentu z jedzeniem.
+    </p><br>
+    <img align="center" width="30%" height="30%" src="../assets/chart2.png"/><br>
+    <h2>A CO Z PRÓBKAMI?</h2><br>
+    <p>W kolejnej serii eksperymentów naukowcy ponownie wykorzystali jedzenie, lecz tym razem pozwolili badanym także go
+      próbować. Produktu jako takiego na miejscu nie było, za to były jego próbki. Można by się spodziewać, że obecność
+      próbek powinna dać taki sam efekt, jak fizyczna dostępność prawdziwego produktu. A jednak nie! Rysunek 100.3
+      pokazuje, że obecność próbek także nie miała takiego przełożenia na uczestników badania, jak fizyczna dostępność
+      prawdziwych
+      produktów.
+    </p><br>
+    <img align="center" width="30%" height="30%" src="../assets/chart3.png"/><br>
+    <p>Naukowcy zauważyli, że w tej serii badań uczestnicy nie zwracali nawet uwagi na próbki produktów w papierowych
+      opakowaniach, ponieważ wiedzieli, że są one takie same jak prawdziwe produkty.</p><br>
+    <h2>CZY TO SPRAWA ZAPACHU?</h2><br>
+    <p>Naukowcy zaczęli się zastanawiać, czy jedzenie wydzielało jakieś działające na podświadomość
+      zapachy, które uaktywniały mozg. Dlatego zdecydowali się przeprowadzić jeszcze jeden eksperyment: prezentowali
+      prawdziwe produkty spożywcze, ale znajdowały się one za pleksiglasową szybą. Za tak zaprezentowane jedzenie badani
+      oferowali nieco mniejsze kwoty pieniędzy — nie tak wysokie jak wówczas, gdy jedzenie było fizycznie dostępne.
+      „Więc to tak!”, pomyśleli naukowcy.
+      „Istnieją jakieś wskazówki zapachowe”. Szybko jednak okazało się, że takie same wyniki osiągano
+      wówczas, gdy za szybą umieszczone były produkty inne niż jedzenie. Stąd prosty wniosek, że zapach nie ma znaczenia
+      dla mózgu. Rysunek 100.4 prezentuje wyniki eksperymentu, gdy zastosowano w jego trakcie szybę z pleksiglasu.
+    </p><br>
+    <img align="center" width="30%" height="30%" src="../assets/chart4.png"/><br>
+    <h2>ODRUCH WARUNKOWY?</h2><br>
+    <p>Bushong i jego zespoł wysunęli hipotezę, że reakcja uczestnikow badań była odruchem warunkowym: gdy produkt jest
+      fizycznie dostępny, działa on jak warunkowy stymulator i wywołuje reakcję.
+      Zdjęcia produktu, a nawet jego opis tekstowy także mogłyby być stymulatorem warunkowym
+      i wywoływać reakcję, lecz mozg nie został zaprogramowany tak, żeby reagować na zdjęcia i tekst
+      w taki sam sposob, jak na rzeczywisty produkt.
+    </p><br>
+    <h2>Warto zapamiętać</h2><br>
+    <p>Sklepy, które działają w tradycyjny sposob i nie są obecne w sieci, nadal mają rację bytu, jeśli
+      można w nich zobaczyć prawdziwe produkty, a oferowane przez nie ceny są atrakcyjne.
+      Udostępnianie produktow za szybą albo jakąś inną barierą może spowodować, że potencjalni
+      klienci będą skłonni płacić za nie mniej pieniędzy.
+    </p><br>
   </div>
-  <p>Ben Bushong (2010) i jego zespoł naukowy postanowili znaleźć odpowiedzi pytania czy ludzie wyżej oceniają produkt
-    gdy ujrzą jego zdjecie, niż gdy opis produktu będzie miał tylko postac tekstową, czy produkt może być więcej wart
-    jeśli zobaczymy go na zywo w sklepie stacjonarnym, czy sposób w jaki produkt prezentowany jest w momencie podjęcia
-    decyzji ma wpływ na cene jaka kupujący będzie skłonny zaplacic.
-    W pierwszej serii eksperymentow naukowcy użyli przekąsek (chipsow ziemniaczanych, czekoladowych batonow i tym
-    podobnych produktow), a uczestnikom wręczyli określone sumy pieniędzy do wydania. Produktow było bardzo dużo, a
-    badani sami mogli wybrać, na co chcą wydać pieniądze. (Wcześniej wyeliminowano osoby na diecie oraz ludzi ze
-    schorzeniami układu pokarmowego). Uczestnicy badania proponowali własne ceny za wybrane przez siebie produkty,
-    dzięki czemu naukowcy mogli stwierdzić, kto jest skłonny ile zapłacić za poszczegolne towary. Niektorzy uczestnicy
-    badania mogli przeczytać tylko nazwę i krotki opis produktu, na przykład „Chipsy ziemniaczane Lay’s w torebce 150
-    g”. Innym pokazywano rownież zdjęcia produktow, a jeszcze inni widzieli produkty na własne oczy.
-    Wyniki badania prezentuje rysunek 100.1.
-  </p><br>
 </template>
 <!--=======================TEMPLATE END=======================-->
 
@@ -147,24 +199,6 @@
 
 <!--===========================STYLE===========================-->
 <style scoped>
-  .columns {
-    width: 100%;
-    height: 100%;
-  }
-
-  .card {
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18);
-    margin-bottom: 2rem;
-  }
-
-  .card-header-title {
-    color: #8F99A3;
-    font-weight: 400;
-  }
-
-  .info-tiles {
-    margin: 1rem 0;
-  }
 
   .info-tiles .subtitle {
     font-weight: 300;

@@ -46,11 +46,19 @@
     font-weight: 300;
   }
 
+  p {
+    text-align: justify;
+  }
+
   p.subtitle {
     padding-top: 1rem;
   }
 
-  .snackbar.is-bottom-left {
-    align-self: start;
+  h1 {
+    font-weight: 700;
+  }
+
+  h2 {
+    font-weight: 500;
   }
 </style>

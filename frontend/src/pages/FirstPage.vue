@@ -1,28 +1,44 @@
 <!--=========================TEMPLATE=========================-->
 <template>
   <div class="container">
-    <div class="columns">
-      <div class="column is-3">
+    <section class="hero is-info welcome is-small">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            Interakcje człowiek komputer
+          </h1>
+          <h2 class="subtitle">
+          </h2>
+        </div>
       </div>
-      <div class="column is-9">
-
-        <section class="hero is-info welcome is-small">
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title">
-                Interakcje człowiek komputer
-              </h1>
-              <h2 class="subtitle">
-              </h2>
-            </div>
-          </div>
-        </section>
-        kjgnvdh
-        dhdshdf
-        hddsfhdf
-      </div>
-    </div>
+    </section>
+    <br>
+    <h1>IOT DLA MEDYCYNY</h1>
+    <br>
+    <h2>Technologie w aspekcie zdrowia</h2>
+    <br>
+    <p>Spośród wszystkich dziedzin, które obiecuje zrewolucjonizować Internet rzeczy, medycyna wysuwa się na pierwszy
+      plan. Wejście inteligentnych technologii łączności do medycyny zmienia scenariusz w przypadku choroby, którego
+      stajemy się częścią - i zmienia go na lepsze. </p><br>
+    <img align="center" width="30%" height="30%" src="../assets/iot1.png"/><br>
+    <p>Największa zmiana zachodzi, gdy istniejące sprzęty medyczne zostają ze sobą połączone. Mowa tu o wszelkiego
+      rodzaju sprzętach znajdujących się w salach szpitalnych, na oddziale intensywnej opieki medycznej, w izbie przyjęć
+      czy na sali operacyjnej. A także o wszystkich urządzeniach medycznych, które można mieć przy sobie - zarówno tych
+      zewnętrznych jak i wszczepionych - monitorujących ciśnienie krwi, pracę serca a nawet o rozrusznikach. Wszystkie
+      te urządzenia mogą być podłączone bezprzewodowo do Internetu rzeczy, a także ze sobą nawzajem lub do centralnej
+      bazy danych czy systemu monitorującego. Urządzenia te, zamiast generować osobne raporty, przesyłają dane w czasie
+      rzeczywistym do zautomatyzowanego lub kontrolowanego przez lekarza systemu który może natychmiast zinterpretować
+      te niezależne odczyty, a nawet podjąć na podstawie tej analizy stosowne działania. </p>
   </div>
+  <br>
+  <p>Jednym z pierwszych i najważniejszych kroków w kierunku inteligentnej opieki medycznej jest wykorzystywanie
+    zdalnych urządzeń monitorujących.
+    Dzięki tym urządzeniom pacjenci bądą w warunkach domowych monitorowani w takim samym zakresie w jakim było to
+    poprzednio możliwe tylko w szpitalu i innych placówkach medycznych. Mówimy o monitorowaniu zdalnym, które nie będzie
+    zależne od miejsca pobytu, możliwym dzięki internetowej komunikacji bezprzewodowej pozwalającej lekarzowi
+    monitorować stan zdrowia, aktywność fizyczną i przyjmowanie leków pacjentów w czasie rzeczywistym oraz w nagłych
+    przypadkach powiadamiać odpowiedni personel.
+  </p><br>
 </template>
 <!--=======================TEMPLATE END=======================-->
 
