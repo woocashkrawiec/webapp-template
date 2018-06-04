@@ -21,6 +21,7 @@
     <p>Sposób, w jaki ludzie podejmują decyzje jest bardzo skomplikowany. Większość decyzji podejmowanych przez
       człowieka jest podejmowana podświadomie. </p><br>
     <img align="center" width="30%" height="30%" src="../assets/brain.jpg"/><br>
+    <br>
     <p>Zastanawiając się nad zakupem odbiornika telewizyjnego, najczęściej sprawdzamy, czym się kierować przy wyborze
       telewizora, a następnie wchodzimy do internetowego sklepu, aby dokonać zakupu. Ciekawą rzeczą są czynniki brane
       pod uwagę w trakcie procesu podejmowania decyzji. To wcale nie musi być proces taki, jak go sobie wyobrażamy.
@@ -32,6 +33,7 @@
       ostateczna decyzja jest w głównej mierze podejmowana bez udziału świadomości.
     </p><br>
     <img align="center" width="30%" height="30%" src="../assets/monitor.jpg"/><br>
+    <br>
     <p>Patrząc pod względem podejmowania decyzji zakupowych, w trakcie podświadomego podejmowania takiej decyzji, pod
       uwagę brane są między innymi następujące czynniki:</p>
     • Co kupują inni ludzie: „Widzę, że danemu modelowi telewizora wystawiono wiele ocen i opinii na stronie
@@ -62,6 +64,7 @@
     <br>
     <h2>BADANIE – EKSPERYMENT</h2>
     <img align="center" width="30%" height="30%" src="../assets/cards.jpg"/><br>
+    <br>
     <p>Ciekawe badanie, które dotyczyło funkcjonowania podświadomości,
       zostało przeprowadzone przez Antoine’a Becharę (1997). Uczestnicy badania grali
       w karcianą grę hazardową. Każdy z nich dostał dwa tysiące symbolicznych dolarów. Wszystkim
@@ -102,6 +105,7 @@
       świadomości nie dochodził jeszcze fakt istnienia zagrożenia.
     </p>
     <img align="center" width="30%" height="30%" src="../assets/hand.jpg"/><br>
+    <br>
     <p>Na koniec eksperymentu jego uczestnicy stwierdzali, że rzeczywiście odnosili wrażenie, że większą korzyść dawało
       pobieranie kart z talii C i D. Odczyty SCR wskazywały jednak, że stary mozg wiedział o tym zdecydowanie wcześniej,
       niż docierało to do świadomości nowego mózgu. Jeszcze
@@ -120,6 +124,7 @@
       PRZED ICH OCZAMI
     </h2><br>
     <img align="center" width="30%" height="30%" src="../assets/eye.jpg"/><br>
+    <br>
     <p>Ben Bushong (2010) i jego zespoł naukowy postanowili znaleźć odpowiedzi pytania czy ludzie wyżej oceniają produkt
       gdy ujrzą jego zdjecie, niż gdy opis produktu będzie miał tylko postac tekstową, czy produkt może być więcej wart
       jeśli zobaczymy go na zywo w sklepie stacjonarnym, czy sposób w jaki produkt prezentowany jest w momencie podjęcia
@@ -134,6 +139,7 @@
       Wyniki badania prezentuje rysunek 100.1.
     </p><br>
     <img align="center" width="30%" height="30%" src="../assets/chart1.png"/><br>
+    <br>
     <h2>FIZYCZNA OBECNOŚĆ PRODUKTU PRZEKŁADA SIĘ
       NA JEGO POSTRZEGANĄ WARTOŚĆ
     </h2><br>
@@ -172,6 +178,7 @@
       dla mózgu. Rysunek 100.4 prezentuje wyniki eksperymentu, gdy zastosowano w jego trakcie szybę z pleksiglasu.
     </p><br>
     <img align="center" width="30%" height="30%" src="../assets/chart4.png"/><br>
+    <br>
     <h2>ODRUCH WARUNKOWY?</h2><br>
     <p>Bushong i jego zespoł wysunęli hipotezę, że reakcja uczestnikow badań była odruchem warunkowym: gdy produkt jest
       fizycznie dostępny, działa on jak warunkowy stymulator i wywołuje reakcję.
@@ -185,6 +192,7 @@
       Udostępnianie produktow za szybą albo jakąś inną barierą może spowodować, że potencjalni
       klienci będą skłonni płacić za nie mniej pieniędzy.
     </p><br>
+    <br>
   </div>
 </template>
 <!--=======================TEMPLATE END=======================-->
@@ -200,11 +208,6 @@
 <!--===========================STYLE===========================-->
 <style scoped>
 
-  .info-tiles .subtitle {
-    font-weight: 300;
-    color: #8F99A3;
-  }
-
   .hero.welcome.is-info {
     background: #36D1DC;
     background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);
@@ -213,51 +216,6 @@
 
   .hero.welcome .title, .hero.welcome .subtitle {
     color: hsl(192, 17%, 99%);
-  }
-
-  .card .content {
-    font-size: 14px;
-  }
-
-  .card-footer-item {
-    font-size: 14px;
-    font-weight: 700;
-    color: #8F99A3;
-  }
-
-  .card-footer-item:hover {
-  }
-
-  .card-table .table {
-    margin-bottom: 0;
-  }
-
-  .events-card .card-table {
-    max-height: 250px;
-    overflow-y: scroll;
-  }
-
-  .menu-label {
-    color: #8F99A3;
-    letter-spacing: 1.3;
-    font-weight: 700;
-  }
-
-  .menu-list a {
-    color: #0F1D38;
-    font-size: 14px;
-    font-weight: 700;
-  }
-
-  .menu-list a:hover {
-    background-color: transparent;
-    color: #276cda;
-  }
-
-  .menu-list a.is-active {
-    background-color: transparent;
-    color: #276cda;
-    font-weight: 700;
   }
 </style>
 <!--=========================STYLE END=========================-->

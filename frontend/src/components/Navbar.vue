@@ -13,6 +13,9 @@
       <div id="navMenu" class="navbar-menu" :class="{'is-active': burgerActive}">
         <div class="navbar-start">
           <a class="navbar-item" href="#/">
+            Strona główna
+          </a>
+          <a class="navbar-item" href="#/first">
             IoT dla medycyny
           </a>
           <a class="navbar-item" href="#/second">
