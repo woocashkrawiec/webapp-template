@@ -33,10 +33,6 @@
     box-shadow: none;
   }
 
-  .box {
-    margin-top: 2rem;
-    text-align: left;
-  }
 
   label {
     color: rgb(122, 122, 122);
@@ -50,15 +46,16 @@
     text-align: justify;
   }
 
-  p.subtitle {
-    padding-top: 1rem;
-  }
-
   h1 {
     font-weight: 700;
   }
 
   h2 {
     font-weight: 500;
+  }
+
+  img {
+    display: block;
+    margin: auto;
   }
 </style>
