@@ -11,10 +11,7 @@
 
   export default {
     name: 'App',
-    components: {Navbar},
-    created() {
-      this.$i18n.locale = this.$store.getters.language;
-    }
+    components: {Navbar}
   }
 </script>
 
@@ -47,10 +44,6 @@
 
   input {
     font-weight: 300;
-  }
-
-  p {
-    font-weight: 700;
   }
 
   p.subtitle {

@@ -3,9 +3,6 @@
   <nav class="navbar is-white">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item brand-text" href="#/">
-          jakiś tekst
-        </a>
         <div class="navbar-burger burger" @click="toggleBurger" :class="{'is-active': burgerActive}"
              data-target="navMenu">
           <span></span>
@@ -16,13 +13,10 @@
       <div id="navMenu" class="navbar-menu" :class="{'is-active': burgerActive}">
         <div class="navbar-start">
           <a class="navbar-item" href="#/">
-            zakładka1
+            IoT dla medycyny
           </a>
-          <a class="navbar-item" href="#/strona2">
-            zakładka2
-          </a>
-          <a class="navbar-item" href="#/strona3">
-            zakładka3
+          <a class="navbar-item" href="#/second">
+            Jak ludzie podejmują decyzje?
           </a>
         </div>
 
